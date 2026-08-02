@@ -1,0 +1,40 @@
+{
+  "app_config": {
+    "latest_version": "1.0.0",
+    "force_update": false
+  },
+  "sticker_packs": [
+    {
+      "identifier": "pack_01_memes",
+      "name": "Trending Funny Memes",
+      "publisher": "Sticker Studio",
+      "tray_image_url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/wa-stickers-api@main/packs/pack_01_memes/tray.webp",
+      "stickers": [
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/wa-stickers-api@main/packs/pack_01_memes/01.webp",
+          "emojis": ["😂"]
+        },
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/wa-stickers-api@main/packs/pack_01_memes/02.webp",
+          "emojis": ["🤣"]
+        }
+      ]
+    },
+    {
+      "identifier": "pack_02_love",
+      "name": "Romantic Love Packs",
+      "publisher": "Sticker Studio",
+      "tray_image_url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/wa-stickers-api@main/packs/pack_02_love/tray.webp",
+      "stickers": [
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/wa-stickers-api@main/packs/pack_02_love/01.webp",
+          "emojis": ["❤️"]
+        },
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/wa-stickers-api@main/packs/pack_02_love/02.webp",
+          "emojis": ["😍"]
+        }
+      ]
+    }
+  ]
+}
