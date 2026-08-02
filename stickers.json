@@ -1,0 +1,56 @@
+{
+  "app_config": {
+    "latest_version": "1.0.0",
+    "force_update": false
+  },
+  "sticker_packs": [
+    {
+      "identifier": "pack_01_memes",
+      "name": "Trending Funny Memes",
+      "publisher": "Sticker Studio",
+      "tray_image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_01_memes/tray.webp",
+      "stickers": [
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_01_memes/compressed_image%20(1).webp",
+          "emojis": ["😂"]
+        },
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_01_memes/compressed_image%20(3).webp",
+          "emojis": ["🤣"]
+        },
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_01_memes/compressed_image%20(4).webp",
+          "emojis": ["🔥"]
+        },
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_01_memes/compressed_image%20(5).webp",
+          "emojis": ["😎"]
+        }
+      ]
+    },
+    {
+      "identifier": "pack_02_love",
+      "name": "Romantic Love Packs",
+      "publisher": "Sticker Studio",
+      "tray_image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_02_love/tray.webp",
+      "stickers": [
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_02_love/compressed_image.webp",
+          "emojis": ["❤️"]
+        },
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_02_love/compressed_image%20(6).webp",
+          "emojis": ["😍"]
+        },
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_02_love/compressed_image%20(7).webp",
+          "emojis": ["💕"]
+        },
+        {
+          "image_url": "https://cdn.jsdelivr.net/gh/bjendermisra-ops/wa-stickers-api@main/packs/pack_02_love/compressed_image%20(8).webp",
+          "emojis": ["😘"]
+        }
+      ]
+    }
+  ]
+}
